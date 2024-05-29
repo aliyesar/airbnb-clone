@@ -1,5 +1,5 @@
 {
-  "name": "airbnb",
+  "name": "versengider",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -38,7 +38,7 @@
     "sharp": "^0.33.1",
     "swiper": "^11.0.5",
     "tailwind-merge": "^2.2.0",
-    "zod": "^3.22.4"
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
